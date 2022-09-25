@@ -2,9 +2,10 @@
 <h2  align="center">Hi there <img src="https://github.com/Ayusha-Burman/Ayusha-Burman/blob/main/Hi.gif" width="30"> I'm Ayusha Burman!!</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayusha-burman&label=Profile%20views&color=0e75b6&style=flat" alt="ayusha-burman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayusha-burman" alt="ayusha-burman" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayusha-burman&label=Profile%20views&color=0e75b6&style=flat" alt="ayusha-burman" /> </p>
+<h3>🏆 GitHub Trophies</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayusha-burman&theme=juicyfresh" alt="ayusha-burman" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/ayusha-burman](github.com/ayusha-burman)
 
