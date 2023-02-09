@@ -1,6 +1,6 @@
 ![Header](https://github.com/Ayusha-Burman/Ayusha-Burman/blob/main/header_.png)
 <h2  align="center">Hi there <img src="https://github.com/Ayusha-Burman/Ayusha-Burman/blob/main/Hi.gif" width="30"> I'm Ayusha Burman!!</h2>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Artificial Intelligwnce and Machine Learning Enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayusha-burman&label=Profile%20views&color=0e75b6&style=flat" alt="ayusha-burman" /> </p>
