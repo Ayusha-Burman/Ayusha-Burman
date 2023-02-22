@@ -7,7 +7,7 @@
 <h3>🏆 GitHub Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayusha-burman&theme=juicyfresh" alt="ayusha-burman" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/ayusha-burman](github.com/ayusha-burman)
+- 👨‍💻 All of my projects are available at [github.com/Ayusha-Burman](github.com/Ayusha-Burman)
 
 - 📫 How to reach me **ayushaburman91@gmail.com**
 
